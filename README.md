@@ -1,0 +1,2 @@
+## Objective:
+The AgroGen project aims to provide a smart, AI-powered assistant for farmers and agronomists to diagnose crop diseases and receive hyper-localized farming recommendations. Users can input symptoms or plant images, and the system retrieves region-specific disease cases, weather conditions, and fertilizer usage guidelines from agricultural datasets using Retrieval-Augmented Generation (RAG).
